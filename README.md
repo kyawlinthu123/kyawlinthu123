@@ -46,10 +46,10 @@
 
 ### 🧩 Featured Project
 
-#### 🕒 [Timely – Task Management App (MERN Stack)](https://github.com/kyawlinthu123/Timely)
+#### 🕒 [Timely – A Deadline Tracker App (MERN Stack)](https://github.com/kyawlinthu123/Timely)
 
-A **productivity and task-tracking app** built with the **MERN stack**.  
-Timely helps users manage their tasks efficiently with an intuitive interface and real-time progress tracking.
+A **productivity and assignment-tracking app** built with the **MERN stack**.  
+Timely helps students organize their classes, track deadlines, and stay productive — all in one clean, focused interface.
 
 **Tech:** MongoDB · Express.js · React · Node.js · TailwindCSS  
 **Status:** 🚧 Currently in development  
