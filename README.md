@@ -1,27 +1,86 @@
-# Hi, I am Kyaw Lin Thu <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+<!-- Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&reversal=true&text=Kyaw%20Lin%20Thu&fontAlign=50&fontAlignY=35&fontSize=40&fontColor=ffffff" alt="Kyaw Lin Thu Banner" />
+</div>
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<h3 align="center">
+  Front-End Developer 👨‍💻 | React Enthusiast | Aspiring Full Stack Engineer
+</h3>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+Welcome+to+my+GitHub+profile...!)
-
-## I am a web developer
-
-- 👨‍💻 I love to code, mainly in React.js.
-
-<br />
-
-### Languages and Tools I Know 🛠 
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
-![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
-<br/>
+<p align="center">
+  <a href="https://github.com/kyawlinthu123">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&center=true&vCenter=true&width=500&lines=Front-End+Developer;MERN+Stack+Learner;Building+Projects+in+React;Always+Learning+Something+New+🚀" />
+  </a>
+</p>
 
 ---
+
+### 👨🏻‍💻 About Me
+
+💡 &nbsp;I’m a self-taught **front-end developer** passionate about creating intuitive and dynamic user interfaces.  
+🌍 &nbsp;Originally from Myanmar, I started studying Computer Science before moving to Thailand — now I’m learning full-time on my own while working as a **bartender**.  
+⚡ &nbsp;Currently focused on **React.js** and **MERN stack** projects.  
+🎯 &nbsp;Next goals: diving into **Next.js** and learning a **SQL database language**.  
+🚀 &nbsp;Always curious, always learning, and always building.  
+
+---
+
+### 🛠 Tech Stack
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-%2302569B.svg?style=for-the-badge&logo=react&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
+
+---
+
+### 🧩 Featured Project
+
+#### 🕒 [Timely – Task Management App (MERN Stack)](https://github.com/kyawlinthu123/Timely)
+
+A **productivity and task-tracking app** built with the **MERN stack**.  
+Timely helps users manage their tasks efficiently with an intuitive interface and real-time progress tracking.
+
+**Tech:** MongoDB · Express.js · React · Node.js · TailwindCSS  
+**Status:** 🚧 Currently in development  
+
+---
+
+### ⚙️ GitHub Analytics
+
+<div align="center">
+  
+<a href="https://github.com/kyawlinthu123">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kyawlinthu123&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyawlinthu123&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
+</a>
+
+</div>
+
+---
+
+### 🔥 Streak & Activity
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=kyawlinthu123&theme=algolia&hide_border=true&background=1e2b3c&fire=95CCFF&ring=95CCFF)](https://git.io/streak-stats)
+
+[![Kyaw Lin Thu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kyawlinthu123&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true&section=footer" />
+</div>
