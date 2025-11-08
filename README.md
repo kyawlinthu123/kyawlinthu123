@@ -54,6 +54,14 @@ Timely helps students organize their classes, track deadlines, and stay producti
 **Tech:** MongoDB · Express.js · React · Node.js · TailwindCSS  
 **Status:** 🚧 Currently in development  
 
+#### 🍸 [EBRIUS – The Ultimate Cocktail Recipe Website](https://github.com/kyawlinthu123/EBRIUS)
+
+A **cocktail recipe platform** built with **React, Firebase, and TailwindCSS**.  
+EBRIUS serves as a sleek, intuitive resource for bartenders and home enthusiasts to discover, learn, and craft perfect cocktails — anytime, anywhere.
+
+**Tech:** React · TailwindCSS · Firebase · Vite · Vercel  
+**Status:** ✅ Completed & Live 
+
 ---
 
 ### ⚙️ GitHub Analytics
