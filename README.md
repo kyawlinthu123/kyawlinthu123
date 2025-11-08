@@ -18,7 +18,7 @@
 ### 👨🏻‍💻 About Me
 
 💡 &nbsp;I’m a self-taught **front-end developer** passionate about creating intuitive and dynamic user interfaces.  
-🌍 &nbsp;Originally from Myanmar, I started studying Computer Science before moving to Thailand — now I’m learning full-time on my own while working as a **bartender**.  
+🌍 &nbsp;Originally from Myanmar, I started studying Computer Science before moving to Thailand — now I’m grinding projects on my own while working as a **bartender** full-time.  
 ⚡ &nbsp;Currently focused on **React.js** and **MERN stack** projects.  
 🎯 &nbsp;Next goals: diving into **Next.js** and learning a **SQL database language**.  
 🚀 &nbsp;Always curious, always learning, and always building.  
