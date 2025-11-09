@@ -44,7 +44,7 @@
 
 ---
 
-### 🧩 Featured Project
+### 🧩 Featured Projects
 
 #### 🕒 [Timely – A Deadline Tracker App (MERN Stack)](https://github.com/kyawlinthu123/Timely)
 
